@@ -45,7 +45,7 @@ The dataset contains supermarket transaction records including:
 ---
 
 ## Dashboard
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
